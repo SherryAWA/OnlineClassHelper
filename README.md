@@ -1,4 +1,4 @@
-# OnlineClassHelper
+# OnlineClassWatcher
 
 The **OnlineClassHelper** automates the process of attending online classes by interacting with the UOOC platform. This includes retrieving the list of unfinished courses, selecting a course, and automating video watching for a smooth learning experience. The script utilizes **ffmpeg** to handle video playback and tracks the progress of video lectures.
 
